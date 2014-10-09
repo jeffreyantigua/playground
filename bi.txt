@@ -1,0 +1,9 @@
+http://oraclebisolutions.blogspot.ca/2013/02/obiee11g-security-migration.html
+
+1. An embedded LDAP sever in WEblogic available to store users and groups known as "identity Store"
+2. A file to stroe the permission grants information known as the "Policy Store"
+3. A file to store user and system credentials for inter process communication known as the "Credential Store"
+
+bi publisher:
+1. update roles and permissions
+2. enable guest user
